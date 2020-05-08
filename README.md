@@ -2,6 +2,7 @@
 Simple python GUI Applications using tkinter
 ============================================
 =======Tkinter Application projects=========
+
 1.sample app that opens your favorite applications
 2.
 3.
