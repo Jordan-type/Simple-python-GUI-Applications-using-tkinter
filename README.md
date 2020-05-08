@@ -1,2 +1,2 @@
-# A-simple-python-GUI-Application-using-tkinter-
-A simple python GUI Application using tkinter
+# Simple-python-GUI-Applications-using-tkinter
+Simple python GUI Applications using tkinter
